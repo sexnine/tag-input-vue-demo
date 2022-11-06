@@ -35,7 +35,7 @@
       Check out the code
       <a
         class="font-bold text-blue-500"
-        href="https://github.com/sexnine/tag-input-vue-demo"
+        href="https://github.com/sexnine/tag-input-vue-demo/blob/main/src/components/TagInput.vue"
         >here</a
       >
       and give me a follow while you're at it ;)
