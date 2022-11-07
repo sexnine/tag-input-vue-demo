@@ -1,5 +1,5 @@
 <template>
-  <div class="flex min-h-screen flex-col items-center justify-center gap-y-12">
+  <div class="flex min-h-screen flex-col items-center justify-center gap-y-12 py-12 px-8">
     <h1 class="text-2xl font-bold">Tag input demo</h1>
     <p class="max-w-lg text-left">
       An input box that allows you to add tags. <br />
